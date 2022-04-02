@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# My Name Is Oly Rajak
+## I am a Full Stack Developer
